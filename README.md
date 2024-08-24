@@ -1,2 +1,2 @@
-# Resume-Projects
- Sample Projects for Resume
+# Sample-Telecomms-Project
+ Sample Projects
